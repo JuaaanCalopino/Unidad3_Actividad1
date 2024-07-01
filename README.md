@@ -1,6 +1,6 @@
 # Actividad numero 1        `Juan Calopino :)`
 # DESARROLLO DE ACTIVIDADES
-## Imprimir los 4 elementos de la esquina
+### Imprimir los 4 elementos de la esquina
 ## Imprimir los elementos pares de la matriz
 ## Imprimir los elementos impares de la matriz
 ## Imprimir los elementos que no estén en las esquinas
