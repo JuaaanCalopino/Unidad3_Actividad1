@@ -33,14 +33,12 @@ En este caso como sabemos el rango de los bucles, utilice el for ya que tiende a
 
       #include <stdio.h>
 
-Se utilizó la funcion `int main` la cual declara todos los datos en enteros, las variables que se utilizó son:
+Como bien sabemos en lenguaje C a las matrices las toma la posicion desde 0 a n de filas y columnas entonces por eso las condiciones tienden a ser un numero menor pero relativamente igual al pedido, un claro ejemplo este :
+
+![image](https://github.com/JuaaanCalopino/Unidad3_Actividad1/assets/169931958/4eda08a7-c92f-422d-9125-587fa268581f)
 
 
-      int filas; //este entero va a tomar los valores para filas
-    int columnas; //tambien toma valores pero para colmunas
-    int i; //contador1
-    int j; //contador2
-    int matriz1[4][4]; //matriz numero 1
-    int matriz2[4][4]; //matriz numero 2 
+
+      
     
 
