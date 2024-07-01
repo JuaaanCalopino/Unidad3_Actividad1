@@ -33,5 +33,14 @@ En este caso como sabemos el rango de los bucles, utilice el for ya que tiende a
 
       #include <stdio.h>
 
+Se utilizó la funcion `int main` la cual declara todos los datos en enteros, las variables que se utilizó son:
 
+
+      int filas; //este entero va a tomar los valores para filas
+    int columnas; //tambien toma valores pero para colmunas
+    int i; //contador1
+    int j; //contador2
+    int matriz1[4][4]; //matriz numero 1
+    int matriz2[4][4]; //matriz numero 2 
+    
 
