@@ -25,4 +25,7 @@ Para poder compilar estos archivos, debes tener los parámetros fundamentales lo
 #### [11.Multiplicación de matrices]
 #### [12.División de matrices]
 #### [13.Potencia de matrices]
+`Que utilice en su mayoria en los códigos`
+
+En este caso como sabemos el rango de los bucles, utilice el for ya que tiende a un limite el cual en este caso lo conocemos, ademas se utilizo solo la libreria estandar
 
