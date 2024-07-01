@@ -14,7 +14,7 @@ Para poder compilar estos archivos, debes tener los parámetros fundamentales lo
 `Desarrollo de ejercicios planteados`
 #### [1. Imprimir los 4 elementos de la esquina](https://github.com/JuaaanCalopino/Unidad3_Actividad1/blob/ffa058549bf24cdfc7e1370186b1c58160453fee/Unidad3_JuanC/Ejercicio1.c)
 #### [2. Imprimir los elementos pares de la matriz](https://github.com/JuaaanCalopino/Unidad3_Actividad1/blob/c39dbe2881808eba8df6173d1be6f91c84866cad/Unidad3_JuanC/Ejercicio2.c)
-#### [3. Imprimir los elementos impares de la matriz]
+#### [3. Imprimir los elementos impares de la matriz](https://github.com/JuaaanCalopino/Unidad3_Actividad1/blob/eb07a6b82d178536b87d1f10315b2c854b205bf6/Unidad3_JuanC/Ejercicio3.c)
 #### [4. Imprimir los elementos que no estén en las esquinas]
 #### [5. Generar la matriz inversa]
 #### [6. Generar la matriz transpuesta]
