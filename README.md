@@ -12,7 +12,7 @@ Para poder compilar estos archivos, debes tener los parámetros fundamentales lo
    
 ## [Actividad planteada](https://eva.unl.edu.ec/mod/workshop/view.php?id=3061225)
 `Desarrollo de ejercicios planteados`
-#### [1. Imprimir los 4 elementos de la esquina]
+#### [1. Imprimir los 4 elementos de la esquina](https://github.com/JuaaanCalopino/Unidad3_Actividad1/blob/ffa058549bf24cdfc7e1370186b1c58160453fee/Unidad3_JuanC/Ejercicio1.c)
 #### [2. Imprimir los elementos pares de la matriz]
 #### [3. Imprimir los elementos impares de la matriz]
 #### [4. Imprimir los elementos que no estén en las esquinas]
