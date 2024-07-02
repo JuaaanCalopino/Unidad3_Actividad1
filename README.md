@@ -20,7 +20,7 @@ Para poder compilar estos archivos, debes tener los parámetros fundamentales lo
 #### [6. Generar la matriz transpuesta](https://github.com/JuaaanCalopino/Unidad3_Actividad1/blob/1f293f17726fb990fce8b90d66f7d33c9eb79739/Unidad3_JuanC/Ejercicio6.c)
 #### [7. Generar la matriz simétrica](https://github.com/JuaaanCalopino/Unidad3_Actividad1/blob/a8b4a7ed82bd1150d7cff9296673d56005255383/Unidad3_JuanC/Ejercicio7.c)
 #### [8. Cuantas filas y cuantas columnas tienen una matriz](https://github.com/JuaaanCalopino/Unidad3_Actividad1/blob/acc505c7fdd5ef3624d14ca2026b20e9e0bbf982/Unidad3_JuanC/Ejercicio8.c)
-#### [9. Suma de matrices]
+#### [9. Suma de matrices](https://github.com/JuaaanCalopino/Unidad3_Actividad1/blob/b743ecca8ab54d83d9a7c642551c945681d97e7d/Unidad3_JuanC/ejercicio9.c)
 #### [10.Resta de matrices]
 #### [11.Multiplicación de matrices]
 #### [12.División de matrices]
