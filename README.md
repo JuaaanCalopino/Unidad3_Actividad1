@@ -24,7 +24,7 @@ Para poder compilar estos archivos, debes tener los parámetros fundamentales lo
 #### [10.Resta de matrices](https://github.com/JuaaanCalopino/Unidad3_Actividad1/blob/415e8ecf984066dc03a29168304e3a60d9064136/Unidad3_JuanC/Ejercicio10.c)
 #### [11.Multiplicación de matrices](https://github.com/JuaaanCalopino/Unidad3_Actividad1/blob/63da8eb0c2b0bef0d95b84db17a3f05eb286c64d/Unidad3_JuanC/multiplicacion.c)
 #### [12.División de matrices](https://github.com/JuaaanCalopino/Unidad3_Actividad1/blob/e572c21e5fb3a6aae46d9a2ee93e6e464e014dc4/Unidad3_JuanC/ejercicio12.c)
-#### [13.Potencia de matrices] (https://github.com/JuaaanCalopino/Unidad3_Actividad1/blob/1f856083218d33c802d526a877997626f7cafb70/Unidad3_JuanC/ejercicio13.c)
+#### [13.Potencia de matrices](https://github.com/JuaaanCalopino/Unidad3_Actividad1/blob/1f856083218d33c802d526a877997626f7cafb70/Unidad3_JuanC/ejercicio13.c)
 `Que utilice en su mayoria en los códigos`
 
 En este caso como sabemos el rango de los bucles, utilice el for ya que tiende a un limite el cual en este caso lo conocemos, ademas se utilizo solo la libreria estandar la cual como sabemos es:
